@@ -6,6 +6,7 @@ public class Message {
 		// TODO Auto-generated method stub
 		System.out.println("init");
 		System.out.println("master0");
+		System.out.println("master1");
 	}
 
 }
